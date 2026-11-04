@@ -1,0 +1,587 @@
+{
+ "lang": "fa",
+ "theme": "dark",
+ "a": "#e5e7eb",
+ "b": "#9ca3af",
+ "font": "Vazirmatn,Tahoma,sans-serif",
+ "nameFa": "تهران پوشاک",
+ "nameEn": "Tehran Pooshak",
+ "titleFa": "پوشاک شیک و باکیفیت برای تمام خانواده",
+ "titleEn": "Stylish, quality clothing for the whole family",
+ "bioFa": "تهران پوشاک با ارائه‌ی کالکشن‌های مردانه، زنانه و بچگانه از پارچه‌های مرغوب و دوخت تمیز، انتخابی مطمئن برای خرید لباس است. هر هفته مدل‌های جدید را در فروشگاه و همین صفحه ببینید و با واتساپ سفارش دهید.",
+ "bioEn": "Tehran Pooshak offers men’s, women’s and kids’ collections in quality fabrics with clean tailoring. Browse new arrivals here every week and order via WhatsApp.",
+ "badge": "کالکشن جدید",
+ "badgeEn": "New collection",
+ "phone": "+989123456789",
+ "email": "",
+ "city": "تهران، خیابان نمونه",
+ "cityEn": "Sample St, Tehran",
+ "web": "",
+ "map": "",
+ "avatar": "",
+ "cover": "",
+ "aboutImg": "",
+ "skills": "پارکینگ,اتاق پرو,تعویض تا ۷ روز,ارسال به سراسر کشور,پرداخت در محل (تهران)",
+ "skillsEn": "Parking,Fitting rooms,7-day exchange,Nationwide shipping,Cash on delivery (Tehran)",
+ "exp": "۱۴۰۰",
+ "expEn": "2021",
+ "langs": "مردانه، زنانه، بچگانه، کفش و کیف",
+ "langsEn": "Men, Women, Kids, Shoes & bags",
+ "sec": {
+  "menu": 1,
+  "cart": 1,
+  "more": 1
+ },
+ "soc": [
+  {
+   "p": "instagram",
+   "u": "tehran.pooshak",
+   "on": 1
+  },
+  {
+   "p": "telegram",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "whatsapp",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "youtube",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "linkedin",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "github",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "x",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "rubika",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "aparat",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "eitaa",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "bale",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "soroush",
+   "u": "",
+   "on": 0
+  },
+  {
+   "p": "gap",
+   "u": "",
+   "on": 0
+  }
+ ],
+ "cats": [
+  {
+   "id": "c1",
+   "t": "مردانه",
+   "te": "Men",
+   "on": 1
+  },
+  {
+   "id": "c2",
+   "t": "زنانه",
+   "te": "Women",
+   "on": 1
+  },
+  {
+   "id": "c3",
+   "t": "بچگانه",
+   "te": "Kids",
+   "on": 1
+  },
+  {
+   "id": "c4",
+   "t": "کفش و کیف",
+   "te": "Shoes & bags",
+   "on": 1
+  },
+  {
+   "id": "c5",
+   "t": "اکسسوری",
+   "te": "Accessories",
+   "on": 1
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "ci": "c1",
+   "t": "پیراهن آکسفورد",
+   "te": "Oxford shirt",
+   "d": "پیراهن نخی آستین‌بلند با دوخت اسلیم‌فیت و یقه‌ی کلاسیک",
+   "de": "Slim-fit long-sleeve cotton shirt with a classic collar",
+   "l": "",
+   "le": "",
+   "ing": "نخ ۱۰۰٪ — سایز S تا XXL — سفید، آبی، سرمه‌ای",
+   "inge": "100% cotton — S–XXL — white, blue, navy",
+   "p": "1250000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "nw": 1
+  },
+  {
+   "id": "i2",
+   "ci": "c1",
+   "t": "شلوار کتان راسته",
+   "te": "Straight linen trousers",
+   "d": "شلوار کتان خنک و راحت، مناسب بهار و تابستان",
+   "de": "Cool, comfortable linen trousers for spring and summer",
+   "l": "",
+   "le": "",
+   "ing": "کتان — سایز ۳۰ تا ۴۲ — کرم، مشکی، طوسی",
+   "inge": "Linen — sizes 30–42 — beige, black, grey",
+   "p": "1490000",
+   "o": "",
+   "img": "",
+   "on": 1
+  },
+  {
+   "id": "i3",
+   "ci": "c1",
+   "t": "کت تک اسپرت",
+   "te": "Casual blazer",
+   "d": "کت تک نیمه‌رسمی با آستر کامل، مناسب محل کار و مهمانی",
+   "de": "Smart-casual fully lined blazer for work and evenings",
+   "l": "",
+   "le": "",
+   "ing": "پلی‌ویسکوز — سایز ۴۸ تا ۵۶ — سرمه‌ای، قهوه‌ای",
+   "inge": "Poly-viscose — sizes 48–56 — navy, brown",
+   "p": "3850000",
+   "o": "10",
+   "img": "",
+   "on": 1,
+   "pp": 1
+  },
+  {
+   "id": "i4",
+   "ci": "c1",
+   "t": "هودی نخی",
+   "te": "Cotton hoodie",
+   "d": "هودی ضخیم با پشم نرم داخل و جیب کانگورویی",
+   "de": "Heavy hoodie with soft fleece inside and kangaroo pocket",
+   "l": "",
+   "le": "",
+   "ing": "نخ و پلی‌استر — سایز M تا XXL — مشکی، طوسی، سورمه‌ای",
+   "inge": "Cotton blend — M–XXL — black, grey, navy",
+   "p": "1390000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "pp": 1
+  },
+  {
+   "id": "i5",
+   "ci": "c2",
+   "t": "مانتو بلند کتان",
+   "te": "Long linen coat",
+   "d": "مانتو بلند با پارچه‌ی خنک و دکمه‌های پوشیده",
+   "de": "Long coat in breathable fabric with hidden buttons",
+   "l": "",
+   "le": "",
+   "ing": "کتان ویسکوز — سایز ۳۶ تا ۴۶ — مشکی، زیتونی، شیری",
+   "inge": "Linen-viscose — sizes 36–46 — black, olive, ivory",
+   "p": "2350000",
+   "o": "10",
+   "img": "",
+   "on": 1,
+   "sp": 1,
+   "pp": 1
+  },
+  {
+   "id": "i6",
+   "ci": "c2",
+   "t": "بلوز حریر",
+   "te": "Chiffon blouse",
+   "d": "بلوز سبک و آستین‌پفی با رنگ‌های ملایم",
+   "de": "Light puff-sleeve blouse in soft tones",
+   "l": "",
+   "le": "",
+   "ing": "حریر — سایز فری (۳۶ تا ۴۲) — صورتی، شیری، آبی",
+   "inge": "Chiffon — free size (36–42) — pink, ivory, blue",
+   "p": "990000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "nw": 1
+  },
+  {
+   "id": "i7",
+   "ci": "c2",
+   "t": "کت جین",
+   "te": "Denim jacket",
+   "d": "کت جین کلاسیک با آستر نرم و دوخت مقاوم",
+   "de": "Classic denim jacket with soft lining and durable stitching",
+   "l": "",
+   "le": "",
+   "ing": "جین — سایز S تا XL — آبی روشن، آبی تیره",
+   "inge": "Denim — S–XL — light blue, dark blue",
+   "p": "1890000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "hot": 1
+  },
+  {
+   "id": "i8",
+   "ci": "c2",
+   "t": "شال نخی",
+   "te": "Cotton scarf",
+   "d": "شال نخی سبک با طرح چاپی، مناسب تمام فصول",
+   "de": "Lightweight printed cotton scarf, all seasons",
+   "l": "",
+   "le": "",
+   "ing": "نخ — ۱۴۰×۱۴۰ — طرح‌های متنوع",
+   "inge": "Cotton — 140×140 — assorted prints",
+   "p": "590000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "nw": 1
+  },
+  {
+   "id": "i9",
+   "ci": "c3",
+   "t": "ست تی‌شرت و شلوارک",
+   "te": "T-shirt & shorts set",
+   "d": "ست دوتکه‌ی نخی نرم و بدون حساسیت پوستی",
+   "de": "Soft two-piece cotton set, gentle on skin",
+   "l": "",
+   "le": "",
+   "ing": "نخ پنبه — سن ۲ تا ۱۰ سال — رنگ‌های شاد",
+   "inge": "Cotton — ages 2–10 — bright colors",
+   "p": "780000",
+   "o": "15",
+   "img": "",
+   "on": 1,
+   "sp": 1
+  },
+  {
+   "id": "i10",
+   "ci": "c3",
+   "t": "سرهمی نوزادی",
+   "te": "Baby romper",
+   "d": "سرهمی دکمه‌دار با پارچه‌ی نرم مخصوص نوزاد",
+   "de": "Snap-button romper in extra-soft baby fabric",
+   "l": "",
+   "le": "",
+   "ing": "نخ ارگانیک — ۰ تا ۲۴ ماه — سفید، کرم، آبی",
+   "inge": "Organic cotton — 0–24 months — white, cream, blue",
+   "p": "520000",
+   "o": "",
+   "img": "",
+   "on": 1
+  },
+  {
+   "id": "i11",
+   "ci": "c3",
+   "t": "کاپشن بچگانه",
+   "te": "Kids puffer jacket",
+   "d": "کاپشن سبک و گرم با کلاه جداشونده",
+   "de": "Light warm puffer jacket with detachable hood",
+   "l": "",
+   "le": "",
+   "ing": "تافته و الیاف سبک — سن ۴ تا ۱۴ سال — قرمز، سرمه‌ای",
+   "inge": "Taffeta with light fill — ages 4–14 — red, navy",
+   "p": "1650000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "nw": 1
+  },
+  {
+   "id": "i12",
+   "ci": "c4",
+   "t": "کفش کتانی سفید",
+   "te": "White sneakers",
+   "d": "کتانی روزمره با زیره‌ی طبی و سبک",
+   "de": "Everyday sneakers with a light cushioned sole",
+   "l": "",
+   "le": "",
+   "ing": "سایز ۳۶ تا ۴۵ — سفید، کرم",
+   "inge": "Sizes 36–45 — white, cream",
+   "p": "2190000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "pp": 1
+  },
+  {
+   "id": "i13",
+   "ci": "c4",
+   "t": "کفش چرم رسمی",
+   "te": "Leather dress shoes",
+   "d": "کفش رسمی چرم طبیعی با رویه‌ی مات",
+   "de": "Genuine leather dress shoes with matte finish",
+   "l": "",
+   "le": "",
+   "ing": "چرم طبیعی — سایز ۴۰ تا ۴۵ — مشکی، قهوه‌ای",
+   "inge": "Genuine leather — sizes 40–45 — black, brown",
+   "p": "3450000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "vg": 1
+  },
+  {
+   "id": "i14",
+   "ci": "c4",
+   "t": "کیف دوشی چرم",
+   "te": "Leather shoulder bag",
+   "d": "کیف دوشی از چرم طبیعی با دو محفظه و زیپ مخفی",
+   "de": "Genuine leather shoulder bag, two compartments, hidden zip",
+   "l": "",
+   "le": "",
+   "ing": "چرم طبیعی — قهوه‌ای، مشکی، عسلی",
+   "inge": "Genuine leather — brown, black, tan",
+   "p": "3200000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "vg": 1
+  },
+  {
+   "id": "i15",
+   "ci": "c5",
+   "t": "کمربند چرم",
+   "te": "Leather belt",
+   "d": "کمربند چرمی با سگک فلزی ضدزنگ",
+   "de": "Leather belt with rust-proof metal buckle",
+   "l": "",
+   "le": "",
+   "ing": "چرم — طول ۱۰۵ تا ۱۲۰ سانتی‌متر — مشکی، قهوه‌ای",
+   "inge": "Leather — 105–120 cm — black, brown",
+   "p": "650000",
+   "o": "",
+   "img": "",
+   "on": 1
+  },
+  {
+   "id": "i16",
+   "ci": "c5",
+   "t": "عینک آفتابی",
+   "te": "Sunglasses",
+   "d": "عینک آفتابی با لنز UV400 و فریم سبک",
+   "de": "Sunglasses with UV400 lenses and a light frame",
+   "l": "",
+   "le": "",
+   "ing": "فریم مشکی و عسلی",
+   "inge": "Black and tortoise frames",
+   "p": "890000",
+   "o": "",
+   "img": "",
+   "on": 1,
+   "nw": 1,
+   "sp": 1
+  },
+  {
+   "id": "i17",
+   "ci": "c5",
+   "t": "کلاه کپ",
+   "te": "Cap",
+   "d": "کلاه کپ نخی با بند قابل تنظیم",
+   "de": "Cotton cap with adjustable strap",
+   "l": "",
+   "le": "",
+   "ing": "سایز فری — مشکی، سرمه‌ای، کرم",
+   "inge": "Free size — black, navy, beige",
+   "p": "350000",
+   "o": "",
+   "img": "",
+   "on": 1
+  }
+ ],
+ "hrs": [
+  {
+   "o": "10:00",
+   "c": "21:30",
+   "x": 0
+  },
+  {
+   "o": "10:00",
+   "c": "21:30",
+   "x": 0
+  },
+  {
+   "o": "10:00",
+   "c": "21:30",
+   "x": 0
+  },
+  {
+   "o": "10:00",
+   "c": "21:30",
+   "x": 0
+  },
+  {
+   "o": "10:00",
+   "c": "21:30",
+   "x": 0
+  },
+  {
+   "o": "10:00",
+   "c": "21:30",
+   "x": 0
+  },
+  {
+   "o": "10:00",
+   "c": "21:30",
+   "x": 0
+  }
+ ],
+ "cur": "تومان",
+ "curEn": "Toman",
+ "ordOn": 1,
+ "ordPhone": "",
+ "wifiS": "",
+ "wifiP": "",
+ "tbl": 10,
+ "port": [
+  {
+   "t": "کالکشن بهاره",
+   "te": "Spring collection",
+   "img": ""
+  },
+  {
+   "t": "ویترین فروشگاه",
+   "te": "Store window",
+   "img": ""
+  },
+  {
+   "t": "پوشاک مردانه",
+   "te": "Menswear",
+   "img": ""
+  },
+  {
+   "t": "پوشاک زنانه",
+   "te": "Womenswear",
+   "img": ""
+  }
+ ],
+ "rev": [
+  {
+   "n": "علی رضایی",
+   "ne": "Ali Rezaei",
+   "r": "5",
+   "d": "۳ هفته پیش",
+   "de": "3 weeks ago",
+   "m": "پیراهن‌ها دقیقاً مثل عکس بود و سایزبندی درست. پرسنل هم خیلی خوش‌برخورد.",
+   "me": "The shirts matched the photos and the sizing was right. Very friendly staff."
+  },
+  {
+   "n": "مینا کاظمی",
+   "ne": "Mina Kazemi",
+   "r": "5",
+   "d": "۱ ماه پیش",
+   "de": "1 month ago",
+   "m": "مانتو کتان عالی بود، پارچه‌اش خنک و دوختش تمیز. حتماً دوباره خرید می‌کنم.",
+   "me": "The linen coat was great — cool fabric, clean stitching. I’ll shop again."
+  },
+  {
+   "n": "سارا احمدی",
+   "ne": "Sara Ahmadi",
+   "r": "4",
+   "d": "۲ ماه پیش",
+   "de": "2 months ago",
+   "m": "ارسال سریع بود و تعویض سایز بدون مشکل انجام شد.",
+   "me": "Fast shipping and the size exchange went smoothly."
+  }
+ ],
+ "book": [
+  {
+   "t": "مشاوره‌ی استایل",
+   "te": "Style consultation",
+   "d": "وقت مشاوره‌ی انتخاب لباس و ست‌کردن (۳۰ دقیقه)",
+   "de": "Styling and outfit consultation (30 min)"
+  },
+  {
+   "t": "پروی خصوصی",
+   "te": "Private fitting",
+   "d": "وقت اختصاصی برای پروی لباس بدون شلوغی",
+   "de": "A private fitting slot without the crowd"
+  }
+ ],
+ "files": [
+  {
+   "t": "کاتالوگ کامل تهران پوشاک (PDF)",
+   "te": "Tehran Pooshak full catalog (PDF)",
+   "m": "PDF • 2 MB",
+   "u": ""
+  }
+ ],
+ "_v": 1792241422127,
+ "pw": "",
+ "cc": {
+  "dark": {
+   "bg": "#0a0a0a",
+   "c": "#141414",
+   "c2": "#1f1f1f",
+   "tx": "#f5f5f5",
+   "mu": "#9a9a9a",
+   "bd": "#2a2a2a",
+   "nav": "#141414",
+   "btn": "#111111"
+  },
+  "light": {
+   "bg": "#fdf8f1",
+   "c": "#fffdf9",
+   "c2": "#f6ebdb",
+   "tx": "#3b2412",
+   "mu": "#8a6c52",
+   "bd": "#e8d5bb",
+   "nav": "#fffdf9",
+   "btn": "#ffffff"
+  }
+ },
+ "langBtn": 1,
+ "langSw": 1,
+ "thSw": 1,
+ "bank": [],
+ "vis": {
+  "t_wa": 0,
+  "m_book": 1,
+  "m_search": 1,
+  "t_wifi": 0,
+  "t_book": 1
+ },
+ "fonts": [],
+ "fnt": {
+  "all": "vazir",
+  "title": "def",
+  "btn": "def",
+  "nav": "def",
+  "pg": {}
+ },
+ "sl": {
+  "home": "",
+  "menu": "fa"
+ }
+}
